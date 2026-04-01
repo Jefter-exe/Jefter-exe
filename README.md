@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Jefter-exe
-- 👀 I’m interested in  Front-End
-- 🌱 I’m currently learning  HTML , CSS e  JavaScript
-- 💞️ I’m looking to collaborate on  em qualquer projeto para aprender mais.
-- 📫 How to reach me : @jefter.exe (Instagram)
+- 👀 I’m interested in Cybersecurity
+- 🌱 I’m currently learning Git/Github
+- 💞️ I’m looking to collaborate on any group with projects in DevOps/DevSecOps area
+- 📫 How to reach me : @jefter.exe (Discord)
+
 
 <!---
 Jefter-exe/Jefter-exe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
